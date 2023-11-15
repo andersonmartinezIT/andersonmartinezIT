@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration and lifecycle examples](https://github.com/andersonmartinezIT/osTicket-Post-Installation-Configuration-and-lifecycle-examples)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/andersonmartinezIT/Microsoft-azure-and-Active-Directory-Configuration)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) File Sharing and Permissions](https://github.com/joshmadakorcc/azure-network-protocols)
   - 
 
 <b>Network File Sharing and Permissions</b>
