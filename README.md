@@ -10,7 +10,7 @@
   - [Network Security Groups (NSGs) File Sharing and Permissions](https://github.com/andersonmartinezIT/Network-Security-Groups-File-Sharing-and-Permissions/)
   - 
 
-<b>Active Directory Admin </b>
+<b>Active Directory Users and Computers </b>
  - Reset Password and Unlock Account
 
 <h2>🤳Connect with me:</h2>
