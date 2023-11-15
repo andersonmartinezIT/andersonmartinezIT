@@ -10,7 +10,7 @@
   - [Network Security Groups (NSGs) File Sharing and Permissions](https://github.com/joshmadakorcc/azure-network-protocols)
   - 
 
-<b>Network File Sharing and Permissions</b>
+<b>Reset Password and Unlock Account</b>
 
 <h2>🤳Connect with me:</h2>
 
