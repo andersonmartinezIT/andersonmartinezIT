@@ -10,7 +10,8 @@
   - [Network Security Groups (NSGs) File Sharing and Permissions](https://github.com/joshmadakorcc/azure-network-protocols)
   - 
 
-<b>Reset Password and Unlock Account</b>
+<b>Active Directory Admin </b>
+ - Reset Password and Unlock Account
 
 <h2>🤳Connect with me:</h2>
 
