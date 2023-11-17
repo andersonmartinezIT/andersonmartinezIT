@@ -11,7 +11,6 @@
   - 
 
 - <b>Active Directory Users and Computers </b>
- - Reset Password and Unlock Account
  -  [ Reset Password and Unlock Account](https://github.com/andersonmartinezIT/Microsoft-azure-and-Active-Directory-Configuration)
 
 <h2>🤳Connect with me:</h2>
