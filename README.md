@@ -7,11 +7,12 @@
   - [osTicket: Post-Installation Configuration and lifecycle examples](https://github.com/andersonmartinezIT/osTicket-Post-Installation-Configuration-and-lifecycle-examples)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/andersonmartinezIT/Microsoft-azure-and-Active-Directory-Configuration)
-  - [Network Security Groups (NSGs) File Sharing and Permissions](https://github.com/andersonmartinezIT/Network-Security-Groups-File-Sharing-and-Permissions/)
+  - [Network Security Groups (NSGs) File Sharing and Permissions](https://github.com/andersonmartinezIT/Active-Directory-Users-and-Computers---Reset-Password-and-Unlock-Account)
   - 
 
 - <b>Active Directory Users and Computers </b>
  - Reset Password and Unlock Account
+ -  [ Reset Password and Unlock Account](https://github.com/andersonmartinezIT/Microsoft-azure-and-Active-Directory-Configuration)
 
 <h2>🤳Connect with me:</h2>
 
